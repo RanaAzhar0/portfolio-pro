@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/portfolio-pro/static/css/main.f627932d.css",
+    "main.js": "/portfolio-pro/static/js/main.c927edae.js",
+    "static/media/Screenshot (68).png": "/portfolio-pro/static/media/Screenshot (68).366e019433d7a04787ba.png",
+    "static/media/wine-shope.jpg": "/portfolio-pro/static/media/wine-shope.5ab6202c61b80154ad56.jpg",
+    "static/media/pro-app.jpg": "/portfolio-pro/static/media/pro-app.147c5ba7473e0c5a3eaf.jpg",
+    "static/media/me.png": "/portfolio-pro/static/media/me.da5bc0295e3e4818569f.png",
+    "static/media/neo-reach.jpg": "/portfolio-pro/static/media/neo-reach.8c66eb84ad62b22ef912.jpg",
+    "static/media/reaT-form.jpg": "/portfolio-pro/static/media/reaT-form.f1c062b68ef5e7e01e6c.jpg",
+    "static/media/figma.jpg": "/portfolio-pro/static/media/figma.0ae48d51dfdd88187925.jpg",
+    "static/media/pro-03.jpg": "/portfolio-pro/static/media/pro-03.7c0235466f6f5a10f8ee.jpg",
+    "index.html": "/portfolio-pro/index.html",
+    "main.f627932d.css.map": "/portfolio-pro/static/css/main.f627932d.css.map",
+    "main.c927edae.js.map": "/portfolio-pro/static/js/main.c927edae.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f627932d.css",
+    "static/js/main.c927edae.js"
+  ]
+}
